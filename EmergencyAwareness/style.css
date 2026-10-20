@@ -1,4 +1,4 @@
-.kit-text-home {
+.kit-text-index {
     border: 2px solid rgb(62, 62, 62) ;
     background-color: rgb(37, 37, 38);
     padding: 20px;
@@ -94,7 +94,7 @@
     margin: 20px;
 }
 
-.image-home{
+.image-index{
   position: absolute;
   top: 80px;
   right: 0;
@@ -102,7 +102,7 @@
   margin: 20px;
 }
 
-.text-home{
+.text-index{
     border: 2px solid rgb(62, 62, 62) ;
     background-color: rgb(37, 37, 38);
     padding: 20px;
